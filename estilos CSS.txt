@@ -1,0 +1,55 @@
+estilos CSS
+
+header{
+//esto lo utilizamos darle estilo a todo lo que tenga nombre "header"
+
+	backgraund:green; cambiar el fondo del texto a verde
+	color: black; cambiar el color de la fuente o letra
+
+}
+
+#header{
+//esto lo utilizamos cuando dentro del "header" le colocamos un ID y esta es la sintaxis para poder llamarlo 
+// nota: solo le aparecera el cambio a ese header
+
+	backgraund:green; cambiar el fondo del texto a verde
+	color: black; cambiar el color de la fuente o letra
+
+
+}
+
+
+.green{
+// utilizamos cuando dentro de el (header) llamamos a la class = "green" entonces esta seria la sintaxis
+
+	backgraund:green; cambiar el fondo del texto a verde
+	color: black; cambiar el color de la fuente o letra
+
+
+}
+
+font-size: 20px; cambiar el tamaño de la fuente
+font-family:sans-serif; tipo de fuente (ejemplo) aria-cursiva
+font-weight:lighter; letra mucha mas delgada
+display: block; que todo quede en bloque, uno debajo de otro
+text-align:center; aliniacion de los textos centro, izquierda, Derecha
+width: 960px; que tan ancho quieres que sea tu caudro
+margin:auto; te centra los margenes hacia en centro automaticamente, agregandole a todos los lados (mergenes: bordes que estan por fuera del cuadro)
+margin-top:200px; margin hacia arriba
+margin-left:auto; el margen se tira automaticamente hacia la izquierda
+margin-right:auto; el margen se tira automaticamete hacia la derecha
+padding: 40px; relleno de los bordes pero hacia dentro
+
+margin:0px;
+padding:0px; los dos en en cero, lo que hacen es quitar el espacio que alla entre linea y linea de texto  
+
+
+
+
+************************************************************************************************************************
+
+border: 1px solid black; que me coloque un borde de 1px de ancho, que la linea sea delgada(solid) y a demas sea del color negro
+
+NOTA: <di></div> significa agragar divisiciones en el HTML
+
+*************************************************************************************************************************
